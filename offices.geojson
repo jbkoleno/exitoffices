@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.596025,
+                    31.83386
+                ]
+            },
+            "properties": {
+                "title": "576 W. Oglethorpe Hwy, Hinesville, GA, 31313",
+                "description": "EXIT TEAM REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.48414,
+                    33.90993
+                ]
+            },
+            "properties": {
+                "title": "1755 The Exchange, Suite 204, Atlanta, GA, 30339",
+                "description": "EXIT TEAM REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -83.90348,
+                    33.8385
+                ]
+            },
+            "properties": {
+                "title": "4353 Atlanta Hwy Suite 500, Loganville, GA, 30052",
+                "description": "EXIT INTEGRITY REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.57916,
+                    33.95087
+                ]
+            },
+            "properties": {
+                "title": "999 Whitlock Ave., Suite 15, Marietta, GA, 30064",
+                "description": "EXIT REALTY QUALITY SOLUTIONS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.17584,
+                    33.93362
+                ]
+            },
+            "properties": {
+                "title": "2014 Beaver Ruin Rd NW, Norcross, GA, 3007",
+                "description": "EXIT REALTY QUALITY SOLUTIONS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.4213,
+                    33.77312
+                ]
+            },
+            "properties": {
+                "title": "1024 Donald L Hollowell Pkwy N.W Ste A, Atlanta, GA, 30318",
+                "description": "EXIT REALTY WEST MIDTOWN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.034065,
+                    33.036645
+                ]
+            },
+            "properties": {
+                "title": "306 S. Lewis Street, LaGrange, GA, 30240",
+                "description": "EXIT REALTY ADVANTAGE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.45871,
+                    33.626
+                ]
+            },
+            "properties": {
+                "title": "4751 Best Road, Suite 177, College Park, GA, 30337",
+                "description": "EXIT HALLWAY REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.79287,
+                    34.17693
+                ]
+            },
+            "properties": {
+                "title": "509 N. Tennessee Street. Suite 108, Cartersville, GA, 30120",
+                "description": "EXIT REALTY PARTNERS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.674351,
+                    34.03797
+                ]
+            },
+            "properties": {
+                "title": "3450 Acworth Due West, Kennesaw, GA, 30144",
+                "description": "EXIT REALTY PARTNERS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.513234,
+                    33.656254
+                ]
+            },
+            "properties": {
+                "title": "3800 Camp Creek Parkway. Building 1400 Ste 116, East Point, GA, 30344",
+                "description": "EXIT COMMAND EXCELLENCE REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.76147,
+                    34.824395
+                ]
+            },
+            "properties": {
+                "title": "99 Old CCC Camp Road, Chatsworth, GA, 30705",
+                "description": "EXIT TRACKSIDE REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.22057,
+                    33.506235
+                ]
+            },
+            "properties": {
+                "title": "240 Corporate Center Drive Suite A, Stockbridge, GA, 30281",
+                "description": "EXIT REALTY SOUTH GATE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.97183,
+                    34.79336
+                ]
+            },
+            "properties": {
+                "title": "1223 Coronet Dr. #4, Dalton, GA, 30720",
+                "description": "EXIT TRACKSIDE REALTY"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.68381,
+                    33.859745
+                ]
+            },
+            "properties": {
+                "title": "4448 Marietta St. Suite 200, Powder Springs, GA, 30127",
+                "description": "EXIT GRASSROOTS REALTY"
+            }
+        }
+    ]
+}
