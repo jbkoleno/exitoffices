@@ -5616,6 +5616,1932 @@
                 "website": "exitmosaic.com",
                 "id": "CO-08"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.65979,
+                    38.71591
+                ]
+            },
+            "properties": {
+                "title": "10130 Southern Maryland Blvd., Dunkirk, MD, 20754",
+                "description": "EXIT 1 STOP REALTY (DUNKIRK)",
+                "phone": "301-855-7867",
+                "email": "realestatebyellie@gmail.com",
+                "website": "exit1stoprealty.com",
+                "id": "MD-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.85399,
+                    39.08846
+                ]
+            },
+            "properties": {
+                "title": "8730-16 Cherry Lane, Laurel, MD, 20707",
+                "description": "EXIT RIGHT REALTY",
+                "phone": "301 362 4500",
+                "email": "carlos@exitrightrealty.com",
+                "website": "exitrightrealty.com",
+                "id": "MD-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.83533,
+                    39.27842
+                ]
+            },
+            "properties": {
+                "title": "9396 B. Baltimore National Pike, Ellicott City, MD, 21042",
+                "description": "EXIT SPIVEY PROFESSIONAL REALTY",
+                "phone": "410 465 0083",
+                "email": "donnell@exitspiveypros.com",
+                "website": "exitspiveypros.com",
+                "id": "MD-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.32407,
+                    39.49913
+                ]
+            },
+            "properties": {
+                "title": "2105 Laurel Bush Rd. Suite 110, Bel Air, MD, 21015",
+                "description": "EXIT PREFERRED REALTY",
+                "phone": "410 670 9100",
+                "email": "craig.exitpreferred@gmail.com",
+                "website": "exitpreferred.net",
+                "id": "MD-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.82648,
+                    38.94805
+                ]
+            },
+            "properties": {
+                "title": "4200 Forbes Blvd., Ste 121, Lanham, MD, 20706",
+                "description": "EXIT COMMUNITY REALTY",
+                "phone": "240 623 3948",
+                "email": "Exitcommunityrealty@gmail.com",
+                "website": "EXITCommunityrealty.com",
+                "id": "MD-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.94426,
+                    38.58734
+                ]
+            },
+            "properties": {
+                "title": "4550 Crain Highway Suite 100, White Plains, MD, 20695",
+                "description": "EXIT LANDMARK REALTY (White Plains)",
+                "phone": "301 934 2022",
+                "email": "myexitagent@yahoo.com",
+                "website": "exitlandmarkmd.com",
+                "id": "MD-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.69363,
+                    39.24634
+                ]
+            },
+            "properties": {
+                "title": "5517 Oregon Ave, Arbutus, MD, 21227",
+                "description": "EXIT RESULTS REALTY",
+                "phone": "410 705 6295",
+                "email": "jim.hyatt@exitresults.com",
+                "website": "exitresults.com",
+                "id": "MD-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.78237,
+                    39.2092
+                ]
+            },
+            "properties": {
+                "title": "6020 Meadowridge Center Dr. Suite M, Elkridge, MD, 21075",
+                "description": "EXIT RESULTS REALTY",
+                "phone": "410 705 6296",
+                "email": "tina.hyatt@exitresults.com",
+                "website": "exitresults.com",
+                "id": "MD-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.58408,
+                    38.53654
+                ]
+            },
+            "properties": {
+                "title": "222 Merrimac Court, Prince Frederick, MD, 20678",
+                "description": "EXIT BY THE BAY REALTY",
+                "phone": "443 975 7555",
+                "email": "exitbythebay@gmail.com",
+                "website": "exitbythebay.com",
+                "id": "MD-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.8212,
+                    39.5184
+                ]
+            },
+            "properties": {
+                "title": "2615 Augustine Herman Hwy , Chesapeake City, MD, 21915",
+                "description": "EXIT PREFERRED REALTY",
+                "phone": "410 398 9000",
+                "email": "craig.exitpreferred@gmail.com",
+                "website": "exitchesapeakebay.com",
+                "id": "MD-10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.88955,
+                    38.777615
+                ]
+            },
+            "properties": {
+                "title": "8222 Schultz Road , Clinton, MD, 20735",
+                "description": "EXIT LANDMARK REALTY (CLINTON)",
+                "phone": "301 868 0500",
+                "email": "myexitagent@yahoo.com",
+                "website": "ExitLandmarkmd.com",
+                "id": "MD-11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.700685,
+                    38.988975
+                ]
+            },
+            "properties": {
+                "title": "2139 Espey Court, Suite #1, Crofton, MD, 21114",
+                "description": "EXIT FIRST REALTY",
+                "phone": "301-352-8100",
+                "email": "vernada@realtor.com",
+                "website": "EXITFirstRealty.com",
+                "id": "MD-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.07136,
+                    38.56473
+                ]
+            },
+            "properties": {
+                "title": "122 Cedar Street, Cambridge, MD, 21613",
+                "description": "EXIT ON THE BAY REALTY",
+                "phone": "410 228 2900",
+                "email": "dan@exitotb.com",
+                "website": NaN,
+                "id": "MD-13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.737953,
+                    39.31869
+                ]
+            },
+            "properties": {
+                "title": "1826 Woodlawn Drive Ste. 1, Woodlawn, MD, 21207",
+                "description": "EXIT REALTY PERSPECTIVES",
+                "phone": "410 777 8433",
+                "email": "jrsellsmaryland@gmail.com",
+                "website": NaN,
+                "id": "MD-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.49146,
+                    38.97803
+                ]
+            },
+            "properties": {
+                "title": "211 Main St Suite 2, Annapolis, MD, 21401",
+                "description": "EXIT COMMUNITY REALTY ANNAPOLIS",
+                "phone": "410 266 3030",
+                "email": "EXITCommunityRealtyAnnapolis@gmail.com",
+                "website": "exitpremierproperties.com",
+                "id": "MD-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.595585,
+                    39.402545
+                ]
+            },
+            "properties": {
+                "title": "600 Fairmount Avenue, Towson, MD, 21286",
+                "description": "EXIT ON THE HARBOR REALTY",
+                "phone": "410 919 9660",
+                "email": "saul@exitontheharbor.com",
+                "website": "exitontheharbor.com",
+                "id": "MD-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.96134,
+                    38.96893
+                ]
+            },
+            "properties": {
+                "title": "3321 Toledo Terrace #101, Hyattsville, MD, 20782",
+                "description": "EXIT ABOVE REALTY",
+                "phone": "240 770 5393",
+                "email": "ekekwe@aboverealtysolutions.com",
+                "website": "aboverealtysolutions.com",
+                "id": "MD-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.86112,
+                    39.21223
+                ]
+            },
+            "properties": {
+                "title": "10440 Little Patuxent Pky, Ste 300, Columbia, MD, 21044",
+                "description": "EXIT WYSE REALTY",
+                "phone": "443 962 6282",
+                "email": "lharris1632@gmail.com",
+                "website": "exitwyse.com",
+                "id": "MD-18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.28764,
+                    38.97551
+                ]
+            },
+            "properties": {
+                "title": "1539 Postal Rd, Chester, MD, 21619",
+                "description": "EXIT ON THE BAY REALTY",
+                "phone": "410 304 2011",
+                "email": "dan@exitotb.com",
+                "website": NaN,
+                "id": "MD-19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.02976,
+                    38.99794
+                ]
+            },
+            "properties": {
+                "title": "8701 Georgia Avenue, Ste. 509, Silver Spring, MD, 20910",
+                "description": "EXIT REALTY ENTERPRISES",
+                "phone": "301 593 4811",
+                "email": "vincentekuban@yahoo.com",
+                "website": "exitrealtyenterprises.com",
+                "id": "MD-20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.768475,
+                    38.46416
+                ]
+            },
+            "properties": {
+                "title": "28967 Three Notch Road Unit B, Mechanicsville, MD, 20659",
+                "description": "EXIT HERE REALTY",
+                "phone": "301 932 7800",
+                "email": "pattifirstchoice@aol.com",
+                "website": NaN,
+                "id": "MD-21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.16242,
+                    39.36485
+                ]
+            },
+            "properties": {
+                "title": "205 E Ridgeville Blvd, Mt. Airy, MD, 21771",
+                "description": "EXIT REALTY CENTER",
+                "phone": "301 703 8169",
+                "email": "KellySteichen@outlook.com",
+                "website": "exitrealtycenter.com",
+                "id": "MD-22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.00381,
+                    39.03306
+                ]
+            },
+            "properties": {
+                "title": "10770 Columbia Pike, Suite 300E1, Silver Spring, MD, 20901",
+                "description": "EXIT MILLENNIUM REALTY",
+                "phone": "866 642 2721",
+                "email": "info@exitmillennium.com",
+                "website": "EXITMILLENNIUM.COM",
+                "id": "MD-23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.08197,
+                    38.7819
+                ]
+            },
+            "properties": {
+                "title": "219 Marlboro Ave #47, Easton, MD, 21601",
+                "description": "EXIT ON THE BAY REALTY",
+                "phone": "410 822 2152",
+                "email": "dan@exitotb.com",
+                "website": NaN,
+                "id": "MD-24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.52247,
+                    39.12315
+                ]
+            },
+            "properties": {
+                "title": "3905 Mountain Rd., Suite A, Pasadena, MD, 21122",
+                "description": "EXIT RESULTS REALTY",
+                "phone": "443 588 5062",
+                "email": "tina.hyatt@exitresults.com",
+                "website": NaN,
+                "id": "MD-25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.01637,
+                    38.78558
+                ]
+            },
+            "properties": {
+                "title": "137 National Plaza, Suite 300, National Harbor, MD, 20745",
+                "description": "EXIT DELUXE REALTY",
+                "phone": "800 761 1690",
+                "email": "info@exitrealtynationalharbor.com",
+                "website": "exitrealtynationalharbor.com",
+                "id": "MD-26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.89788,
+                    38.61876
+                ]
+            },
+            "properties": {
+                "title": "3475 Leonardtown Rd. Ste 101, Waldorf, MD, 20601",
+                "description": "EXIT HERE REALTY",
+                "phone": "301 932 7800",
+                "email": "pattiexithere@gmail.com",
+                "website": "exithererealtymd.com",
+                "id": "MD-27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -77.093615,
+                    38.98133
+                ]
+            },
+            "properties": {
+                "title": "7200 Wisconsin Ave, Suite 500 , Bethesda, MD, 20814",
+                "description": "EXIT DELUXE REALTY",
+                "phone": "202 489 6110",
+                "email": "ofakinlede.realtor@gmail.com",
+                "website": "exitdeluxerealty.com",
+                "id": "MD-28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.159821,
+                    38.377255
+                ]
+            },
+            "properties": {
+                "title": "11002 Unit 3 Manklin Meadows Lane, Ocean Pines, MD, 21811",
+                "description": "EXIT REALTY AT THE BEACH",
+                "phone": "410 208 3948",
+                "email": "dan@exitotb.com",
+                "website": NaN,
+                "id": "MD-29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.06719,
+                    38.38136
+                ]
+            },
+            "properties": {
+                "title": "5700 Coastal Hwy Suite 202, Ocean City, MD, 21842",
+                "description": "EXIT REALTY OCEAN CITY",
+                "phone": "410 524 3948",
+                "email": "Bernie@EXITrealtyoc.com",
+                "website": "exitrealtyoc.com",
+                "id": "MD-30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.68634,
+                    39.0784
+                ]
+            },
+            "properties": {
+                "title": "1113 Odenton Road Suite 1F/G , Odenton, MD, 21113",
+                "description": "EXIT VANGUARD REALTY",
+                "phone": "301 539 9669",
+                "email": "info@exitvanguard.com",
+                "website": "exitvanguard.com",
+                "id": "MD-31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.06719,
+                    38.38136
+                ]
+            },
+            "properties": {
+                "title": "5700 Coastal Hwy Suite 202, Ocean City, MD, 21842",
+                "description": "EXIT REALTY OCEAN CITY",
+                "phone": "410 524 3948",
+                "email": "Bernie@EXITrealtyoc.com",
+                "website": "exitrealtyoc.com",
+                "id": "MD-32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9924,
+                    38.72662
+                ]
+            },
+            "properties": {
+                "title": "986 Swan Creek, Ft. Washington, MD, 20744",
+                "description": "EXIT P.R.E.S. REALTY",
+                "phone": "801 970 9776",
+                "email": "mhc@exitpresrealty.com",
+                "website": NaN,
+                "id": "MD-33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.84196,
+                    38.81724
+                ]
+            },
+            "properties": {
+                "title": "9440 Marlboro Pike #201, Upper Marlboro, MD, 20771",
+                "description": "EXIT ESSENTIALS REALTY",
+                "phone": "240 498 6270",
+                "email": "realtorshareebody@gmail.com",
+                "website": NaN,
+                "id": "MD-34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.205928,
+                    42.53037
+                ]
+            },
+            "properties": {
+                "title": "85 Wilmington Road, Burlington, MA, 01803",
+                "description": "EXIT PREMIER REAL ESTATE",
+                "phone": "781 270 4770",
+                "email": "mark@exitpremier.com",
+                "website": "exitpremier.com",
+                "id": "MA-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.57064,
+                    42.60751
+                ]
+            },
+            "properties": {
+                "title": "161 Main Street, Groton , MA, 01450",
+                "description": "EXIT ASSURANCE REALTY",
+                "phone": "978 448 6800",
+                "email": "jeff@EXITassurance.com",
+                "website": "EXITassurance.com",
+                "id": "MA-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.759785,
+                    42.526885
+                ]
+            },
+            "properties": {
+                "title": "12 Main Street, Leominster, MA, 01453",
+                "description": "EXIT NEW OPTIONS REAL ESTATE",
+                "phone": "888 363 3948",
+                "email": "admin@exitnewoptions.com",
+                "website": "exitnewoptions.com",
+                "id": "MA-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.44564,
+                    41.63928
+                ]
+            },
+            "properties": {
+                "title": "4527 Falmouth Rd, Cotuit, MA, 02635",
+                "description": "EXIT CAPE REALTY",
+                "phone": "508 499 2200",
+                "email": "dave@exitcaperealty.com",
+                "website": "EXITCapeRealty.com",
+                "id": "MA-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.063197,
+                    42.288903
+                ]
+            },
+            "properties": {
+                "title": "1810 Dorchester Avenue #9C, Boston, MA, 02124",
+                "description": "EXIT BAYSIDE REALTY",
+                "phone": "617 265 6111",
+                "email": "carla@exitbaysiderealty.com",
+                "website": "EXITbaysideRealty.com",
+                "id": "MA-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.02533,
+                    42.23201
+                ]
+            },
+            "properties": {
+                "title": "130 W. Main St., Spencer, MA, 01562",
+                "description": "EXIT REAL ESTATE EXECUTIVES",
+                "phone": "508 885 5555",
+                "email": "exitreexecutives@gmail.com",
+                "website": "exitrealestateexecutives.com",
+                "id": "MA-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.058075,
+                    41.76738
+                ]
+            },
+            "properties": {
+                "title": "2660 Route 6A Main St, Brewster, MA, 02631",
+                "description": "EXIT CAPE REALTY (BREWSTER)",
+                "phone": "508 499 2200",
+                "email": "dave@exitcaperealty.com",
+                "website": "EXITCapeRealty.com",
+                "id": "MA-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.61266,
+                    41.652185
+                ]
+            },
+            "properties": {
+                "title": "660 North Falmouth Hwy, North Falmouth, MA, 02556",
+                "description": "EXIT CAPE REALTY (FALMOUTH)",
+                "phone": "508 499 2200",
+                "email": "dave@exitcaperealty.com",
+                "website": "exitcaperealty.com",
+                "id": "MA-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.12355,
+                    42.25702
+                ]
+            },
+            "properties": {
+                "title": "1226 Hyde Park Ave, Suite 2, Hyde Park, MA, 02136",
+                "description": "EXIT SUNSHINE REALTY",
+                "phone": "617 942 7251",
+                "email": "louismjeanniton@gmail.com",
+                "website": "exitsunshinerealty.net",
+                "id": "MA-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -90.38651,
+                    38.412945
+                ]
+            },
+            "properties": {
+                "title": "1960 Richardson Road, Arnold, MO, 63010",
+                "description": "EXIT ELITE REALTY",
+                "phone": "636 464 3222",
+                "email": "jakers06@charter.net",
+                "website": "exit-stl.com ",
+                "id": "MO-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.57705,
+                    39.26569
+                ]
+            },
+            "properties": {
+                "title": "9582 N. McGee Street, Kansas City, MO, 64155",
+                "description": "EXIT REALTY PROFESSIONALS",
+                "phone": "816 581 0333",
+                "email": "office@exitrealtykc.com",
+                "website": "exitrealtykc.com",
+                "id": "MO-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.158232,
+                    37.820957
+                ]
+            },
+            "properties": {
+                "title": "376 Suite 1 Old Rt 66, St. Robert, MO, 65584",
+                "description": "EXIT ALL AMERICAN REALTY",
+                "phone": "573 336 3733",
+                "email": "nextexit161@gmail.com",
+                "website": "exitallamericanrealty.com ",
+                "id": "MO-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -91.77498,
+                    37.93935
+                ]
+            },
+            "properties": {
+                "title": "219 W. State Route 72. Suite C, Rolla, MO, 65401",
+                "description": "EXIT ALL AMERICAN REALTY",
+                "phone": "573 426 3948",
+                "email": "nextexit161@gmail.com",
+                "website": "exitallamericanrealty.com",
+                "id": "MO-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.40763,
+                    47.64216
+                ]
+            },
+            "properties": {
+                "title": "1403 S. Grand Blvd, Suite 101 N, Spokane, WA, 99203",
+                "description": "EXIT REAL ESTATE PROFESSIONALS",
+                "phone": "509 535 8400",
+                "email": "sabrina@exitofspokane.com",
+                "website": "exitofspokane.com ",
+                "id": "WA-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.42766,
+                    47.71503
+                ]
+            },
+            "properties": {
+                "title": "1105 W. Francis Ave, Suite A, Spokane, WA, 99205",
+                "description": "EXIT REAL ESTATE NORTH",
+                "phone": "509 466 4500",
+                "email": "admin@exitrenorth.com",
+                "website": "exitrealestatenorth.com",
+                "id": "WA-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.481905,
+                    47.94863
+                ]
+            },
+            "properties": {
+                "title": "517 S. Fir Ave, Deer Park, WA, 99006",
+                "description": "EXIT REAL ESTATE PROFESSIONALS",
+                "phone": "509 535 8400",
+                "email": "sabrina@exitofspokane.com",
+                "website": "exitofspokane.com ",
+                "id": "WA-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.21052,
+                    46.210505
+                ]
+            },
+            "properties": {
+                "title": "8836 W Gage Blvd Suite 101-A, Kennewick, WA, 99336",
+                "description": "EXIT REALTY TRI-CITIES LIFE",
+                "phone": "509 820 3010",
+                "email": "Office@EXITRealtyTC.com",
+                "website": "ExitRealtyTriCitiesLife.com",
+                "id": "WA-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.200459,
+                    34.00505
+                ]
+            },
+            "properties": {
+                "title": "5175 Sunset Blvd. Suite 3, Lexington, SC, 29072",
+                "description": "EXIT REAL ESTATE CONSULTANTS",
+                "phone": "803 358 0888",
+                "email": "info@exitrec.com",
+                "website": "exitrec.com",
+                "id": "SC-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.950517,
+                    34.0726
+                ]
+            },
+            "properties": {
+                "title": "7116 Firelane Rd., Columbia, SC, 29223",
+                "description": "EXIT REAL ESTATE SOLUTIONS",
+                "phone": "803 834 7444",
+                "email": "jk4homes@yahoo.com",
+                "website": "exitres.com",
+                "id": "SC-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -78.95276,
+                    33.728175
+                ]
+            },
+            "properties": {
+                "title": "550 Forestbrook Rd. Suite 300, Myrtle Beach, SC, 29579",
+                "description": "EXIT COASTAL REAL ESTATE PROS",
+                "phone": "843 796 1358",
+                "email": "exitcoastalrealestatepros@gmail.com",
+                "website": "exitcoastalrealestatepros.com",
+                "id": "SC-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.248893,
+                    34.131245
+                ]
+            },
+            "properties": {
+                "title": "1720-F Dutch Fork Rd, Irmo, SC, 29063",
+                "description": "EXIT PALMETTO REAL ESTATE SERVICES",
+                "phone": "803 764 7968",
+                "email": "office.admin@exitpalmetto.com",
+                "website": "exitpalmetto.com ",
+                "id": "SC-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.07126,
+                    32.93101
+                ]
+            },
+            "properties": {
+                "title": "3294 Ashley Phosphate Road Suite 1-E, North Charleston, SC, 29418",
+                "description": "EXIT REALTY LOWCOUNTRY GROUP",
+                "phone": "843 619 3005",
+                "email": "corwyn@corwynmelette.com",
+                "website": "exitlowcountry.com",
+                "id": "SC-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.30333,
+                    34.780145
+                ]
+            },
+            "properties": {
+                "title": "107 East Butler Road Suite F, Mauldin, SC, 29662",
+                "description": "EXIT REALTY UNLIMITED",
+                "phone": "864 509 0336",
+                "email": "maryiacovelli@att.net",
+                "website": "ExitRealtyMauldinSC.com ",
+                "id": "SC-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.753855,
+                    32.160555
+                ]
+            },
+            "properties": {
+                "title": "1000 William Hilton Parkway, Suite J15, Hilton Head Island, SC, 29928",
+                "description": "EXIT HILTON HEAD REALTY",
+                "phone": "843 342 3948",
+                "email": "info@exitrealtyhhi.com",
+                "website": "exitrealtyhhi.com",
+                "id": "SC-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.28496,
+                    34.819025
+                ]
+            },
+            "properties": {
+                "title": "212 Adley Way, Greenville, SC, 29607",
+                "description": "EXIT OMEGA REAL ESTATE GROUP",
+                "phone": "864 335 9944",
+                "email": "jason@exitomegareg.com",
+                "website": "exitomegareg.com",
+                "id": "SC-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.04216,
+                    34.00897
+                ]
+            },
+            "properties": {
+                "title": "914 Richland Street, Suite B-201, Columbia, SC, 29201",
+                "description": "EXIT REALTY NEW HORIZONS",
+                "phone": "803 678 7110",
+                "email": "david@exitnewhorizons.com",
+                "website": "exitnewhorizons.com",
+                "id": "SC-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.32222,
+                    45.183185
+                ]
+            },
+            "properties": {
+                "title": "2143 Northdale Blvd., Coon Rapids, MN, 55433",
+                "description": "EXIT REALTY NEXUS",
+                "phone": "763 548 1400",
+                "email": "dangelo@exitrealtynexus.com",
+                "website": "exitrealtynexus.com",
+                "id": "MN-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.95326,
+                    46.48261
+                ]
+            },
+            "properties": {
+                "title": "17 West Main Street, Crosby, MN, 56441",
+                "description": "EXIT LAKES REALTY PREMIER",
+                "phone": "218 454 3948",
+                "email": "chad@upnorthemail.com",
+                "website": "exitlakerealty.com",
+                "id": "MN-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.54987,
+                    45.28563
+                ]
+            },
+            "properties": {
+                "title": "17323 US-10 Suite B&C, Elk River, MN, 55330",
+                "description": "EXIT REALTY NEXUS",
+                "phone": "763 548 1400",
+                "email": "dangelo@exitrealtynexus.com",
+                "website": "EXITRealtyNexus.com",
+                "id": "MN-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.579739,
+                    44.5671
+                ]
+            },
+            "properties": {
+                "title": "2966 North Service Drive, Red Wing, MN, 55066",
+                "description": "EXIT REALTY RIVERTOWN",
+                "phone": "651 388 2122",
+                "email": "candace@exitrealtyrivertown.com",
+                "website": "exitrealtyrivertown.com ",
+                "id": "MN-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.46958,
+                    46.1382
+                ]
+            },
+            "properties": {
+                "title": "210 Main St W, Isle, MN, 56342",
+                "description": "EXIT REALTY NEXUS",
+                "phone": "320 515 2122",
+                "email": "info@exitrealtynexus.com",
+                "website": "exitrealtynexus.com ",
+                "id": "MN-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.98798,
+                    43.621
+                ]
+            },
+            "properties": {
+                "title": "401 2nd Street, Jackson, MN, 56143",
+                "description": "EXIT REALTY - GREAT PLAINS",
+                "phone": "888 446 2973",
+                "email": "lee@exitisgreat.com",
+                "website": "exitisgreat.com",
+                "id": "MN-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.375605,
+                    45.952825
+                ]
+            },
+            "properties": {
+                "title": "5747 County. Rd 11 NE, Alexandria, MN, 56308",
+                "description": "EXIT MINNESOTA LAKES REALTY",
+                "phone": "320 491 9069",
+                "email": "red@rea-alp.com",
+                "website": "mnlakesrealestate.com ",
+                "id": "MN-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.243193,
+                    44.648813
+                ]
+            },
+            "properties": {
+                "title": "20765 Holyoke Ave, Lakeville, MN, 55044",
+                "description": "EXIT REALTY METRO",
+                "phone": "612 470 3948",
+                "email": "office@ermetro.com",
+                "website": "ermetro.com ",
+                "id": "MN-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.946707,
+                    44.947755
+                ]
+            },
+            "properties": {
+                "title": "7876 Hudson Road, Suite 10, Woodbury, MN, 55125",
+                "description": "EXIT REALTY SPRINGSIDE",
+                "phone": "866 709 7770",
+                "email": "jeffk@springsiderealty.com",
+                "website": "exitspringside.com ",
+                "id": "MN-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.11529,
+                    43.8651
+                ]
+            },
+            "properties": {
+                "title": "225 9th St, Windom, MN, 56101",
+                "description": "EXIT REALTY - GREAT PLAINS",
+                "phone": "507 847 2104",
+                "email": "lee@exitisgreat.com",
+                "website": "EXITisGreat.com",
+                "id": "MN-10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.88046,
+                    47.49073
+                ]
+            },
+            "properties": {
+                "title": "140 Paul Bunyan Dr NW, Bemidji, MN, 56601",
+                "description": "EXIT REALTY BEMIDJI",
+                "phone": "218 444 2204",
+                "email": "marty@paulbunyan.net",
+                "website": NaN,
+                "id": "MN-11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.32647,
+                    44.8675
+                ]
+            },
+            "properties": {
+                "title": "7455 France Ave S. Suite 186, Edina, MN, 55435",
+                "description": "EXIT REALTY EDINA",
+                "phone": "952 594 0829",
+                "email": "mbarnett@exitsellsedina.com",
+                "website": "exitmpls.com",
+                "id": "MN-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -92.463226,
+                    43.994115
+                ]
+            },
+            "properties": {
+                "title": "1903 S. Broadway Ave, Rochester, MN, 55904",
+                "description": "EXIT REALTY REFINED",
+                "phone": "507 258 6464",
+                "email": "tara@exitrealtyrochester.com",
+                "website": NaN,
+                "id": "MN-13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.28925,
+                    44.98012
+                ]
+            },
+            "properties": {
+                "title": "275 Market St. Ste 501, Minneapolis, MN, 55405",
+                "description": "EXIT REALTY METRO",
+                "phone": "612 238 1099",
+                "email": "nick@ermetro.com",
+                "website": "ermetro.com ",
+                "id": "MN-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.58591,
+                    45.440435
+                ]
+            },
+            "properties": {
+                "title": "25930 2nd St. E Suite A, Zimmerman, MN, 55398",
+                "description": "EXIT REALTY METRO",
+                "phone": "952 393 3376",
+                "email": "nick@ermetro.com",
+                "website": "ermetro.com",
+                "id": "MN-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.767375,
+                    44.615995
+                ]
+            },
+            "properties": {
+                "title": "160 Commerce Dr. E, Belle Plaine, MN, 56011",
+                "description": "EXIT NORTHSTAR REALTY",
+                "phone": "612 919 0213",
+                "email": "gregshcmidt@exitmnrealty.com",
+                "website": "gregschmidthomes.com",
+                "id": "MN-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.44915,
+                    43.650325
+                ]
+            },
+            "properties": {
+                "title": "400 South State Street, Ste #330, Fairmont, MN, 56031",
+                "description": "EXIT REALTY - GREAT PLAINS",
+                "phone": "888 446 2973",
+                "email": "lee@exitisgreat.com",
+                "website": "exitisgreat.com ",
+                "id": "MN-17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.43638,
+                    41.53727
+                ]
+            },
+            "properties": {
+                "title": "821 W. 45th Ave, Griffith, IN, 46319",
+                "description": "EXIT REALTY SOLUTIONS",
+                "phone": "219 237 9797",
+                "email": "info.exitrealtysolutions@gmail.com",
+                "website": "exitrealty.solutions",
+                "id": "IN-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.22358,
+                    36.16951
+                ]
+            },
+            "properties": {
+                "title": "316 S. Jones Blvd, Las Vegas, NV, 89107",
+                "description": "EXIT REALTY NUMBER ONE",
+                "phone": "702 949 2409",
+                "email": "dawn@exiterno.com",
+                "website": "exitrealtynumberone.com",
+                "id": "NV-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.102097,
+                    36.026945
+                ]
+            },
+            "properties": {
+                "title": "8925 South Pecos Rd. #15C, Henderson, NV, 89074",
+                "description": "EXIT REALTY THE RIGHT CHOICE",
+                "phone": "702 545 0800",
+                "email": "admin@exitrealtytherightchoice.com",
+                "website": "exitrealtytherightchoice.com ",
+                "id": "NV-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -121.31901,
+                    44.04993
+                ]
+            },
+            "properties": {
+                "title": "805 SW Industrial Way, Suite 4, Bend, OR, 97702",
+                "description": "EXIT REALTY BEND",
+                "phone": "541 385 8775",
+                "email": "exitrealtybendoregon@gmail.com",
+                "website": "exitrealtybend.com ",
+                "id": "OR-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.96351,
+                    41.63315
+                ]
+            },
+            "properties": {
+                "title": "1615 Wolcott Road, Wolcott, CT, 06716",
+                "description": "EXIT REALTY SIGNATURE",
+                "phone": "203 441 6175",
+                "email": "barrieaurealty@gmail.com",
+                "website": "exitsignature.com",
+                "id": "CT-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.94358,
+                    41.681155
+                ]
+            },
+            "properties": {
+                "title": "154 North St., Bristol, CT, 06010",
+                "description": "EXIT REALTY GROUP",
+                "phone": "631 343 8700",
+                "email": "melissa@lireia.com",
+                "website": NaN,
+                "id": "CT-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.927404,
+                    40.587296
+                ]
+            },
+            "properties": {
+                "title": "1231 West 9000 South Suite E, West Jordan, UT, 84088",
+                "description": "EXIT REALTY SUCCESS",
+                "phone": "801 352 8000",
+                "email": "kevinkhomes@gmail.com",
+                "website": "exitsuccessutah.com",
+                "id": "UT-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.83391,
+                    40.602765
+                ]
+            },
+            "properties": {
+                "title": "8160 S. Highland Drive A-1, Sandy, UT, 84093",
+                "description": "EXIT REALTY PLUS",
+                "phone": "801 506 3110",
+                "email": "dennybleak@gmail.com",
+                "website": "exitrealtyplusutah.com",
+                "id": "UT-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.859315,
+                    40.72152
+                ]
+            },
+            "properties": {
+                "title": "2257 South 1100 East Suite 204, Salt Lake City , UT, 84106",
+                "description": "EXIT REALTY LEGACY",
+                "phone": "801 438 0246",
+                "email": "angelina@exitrealtylegacy.com",
+                "website": "exitlegacyutah.com ",
+                "id": "UT-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.028785,
+                    41.26985
+                ]
+            },
+            "properties": {
+                "title": "517 N. 2000 W. Suite #4, Marriott-Slaterville, UT, 84404",
+                "description": "EXIT REALTY ADVANTAGE",
+                "phone": "801 298 2865",
+                "email": "kevinkhomes@gmail.com",
+                "website": "exitadvantageutah.com",
+                "id": "UT-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.29884,
+                    40.52926
+                ]
+            },
+            "properties": {
+                "title": "70 S Main St., Tooele, UT, 84074",
+                "description": "EXIT REALTY ASCENDANCY",
+                "phone": "435 228 6281",
+                "email": "exitrealtyascendancy@gmail.com",
+                "website": "ExitRealtyAscendancy.com",
+                "id": "UT-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -113.587906,
+                    37.061843
+                ]
+            },
+            "properties": {
+                "title": "169 West 2710 South Circle, St. George, UT, 84790",
+                "description": "EXIT REALTY LEGACY EXCELLENCE",
+                "phone": "801 438 0246",
+                "email": "kylewebb@exitlegacyutah.com",
+                "website": "exitrealtylegacyexcellence.com",
+                "id": "UT-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -111.917478,
+                    40.391552
+                ]
+            },
+            "properties": {
+                "title": "1593 N Redwood Rd, Suite 4, Saratoga Springs, UT, 84045",
+                "description": "EXIT REALTY SUCCESS SOLUTIONS",
+                "phone": "801 352 8000",
+                "email": "kevinkhomes@gmail.com",
+                "website": "exitsuccessutah.com",
+                "id": "UT-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.14406,
+                    30.673315
+                ]
+            },
+            "properties": {
+                "title": "759 Downtowner Loop W., Mobile, AL, 36609",
+                "description": "EXIT REALTY LYON",
+                "phone": "251 450 1481",
+                "email": "SLyon@ExitRealtyLyon.com",
+                "website": "exitrealtylyon.com",
+                "id": "AL-01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.6837,
+                    30.29834
+                ]
+            },
+            "properties": {
+                "title": "3725 Gulf Shores Pkwy, Gulf Shores, AL, 36542",
+                "description": "EXIT REALTY GULF SHORES",
+                "phone": "251 974 1288",
+                "email": "tom7467@gmail.com",
+                "website": "exitrealtygulfshores.com ",
+                "id": "AL-02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.66913,
+                    34.71434
+                ]
+            },
+            "properties": {
+                "title": "6610 Old Madison Pike, Huntsville, AL, 35806",
+                "description": "EXIT TOTAL REALTY",
+                "phone": "256 325 0044",
+                "email": "jeffnay@exittotalrealty.com",
+                "website": "exittotalrealty.com",
+                "id": "AL-03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.4197,
+                    32.480135
+                ]
+            },
+            "properties": {
+                "title": "660 N. McQueen Smith Rd. Suite J, Prattville, AL, 36066",
+                "description": "EXIT REALTY PREFERRED",
+                "phone": "334 491 3948",
+                "email": "marthadoylerealtor@aol.com",
+                "website": "exitrealtyprattville.com",
+                "id": "AL-04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -88.19548,
+                    30.6909
+                ]
+            },
+            "properties": {
+                "title": "6606 Old Shell Rd, Mobile, AL, 36608",
+                "description": "EXIT ALLSTAR REALTY",
+                "phone": "251 380 0990",
+                "email": "rachelnufrio@yahoo.com",
+                "website": "exitallstar.net",
+                "id": "AL-05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.90508,
+                    30.52258
+                ]
+            },
+            "properties": {
+                "title": "8 South Church Street, Fairhope, AL, 36532",
+                "description": "EXIT REALTY LYON",
+                "phone": "251 929 4545",
+                "email": "SLyon@ExitRealtyLyon.com",
+                "website": "exitrealtylyon.com",
+                "id": "AL-06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.911537,
+                    30.64148
+                ]
+            },
+            "properties": {
+                "title": "28600 Hwy 98 Suite K, Daphne, AL, 36526",
+                "description": "EXIT ALLSTAR GULF COAST REALTY",
+                "phone": "251 348 7220",
+                "email": "jodylmarsh@gmail.com",
+                "website": NaN,
+                "id": "AL-07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.6309,
+                    32.83834
+                ]
+            },
+            "properties": {
+                "title": "103 7th Street North, Clanton, AL, 35045",
+                "description": "EXIT ROYAL REALTY",
+                "phone": "205 258 5325",
+                "email": "exitroyalrealty@gmail.com",
+                "website": "exitroyalrealty.com",
+                "id": "AL-08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.2398,
+                    32.35688
+                ]
+            },
+            "properties": {
+                "title": "1345 Carmichael Way, Montgomery, AL, 36106",
+                "description": "EXIT REALTY PARTNERS",
+                "phone": "334 356 7575",
+                "email": "bernicehenderson.exit@yahoo.com",
+                "website": "exit-partners.com",
+                "id": "AL-09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.76678,
+                    33.36323
+                ]
+            },
+            "properties": {
+                "title": "2057 Valleydale Rd. Suite 100, Birmingham, AL, 35244",
+                "description": "EXIT MAGIC CITY REALTY",
+                "phone": "205 506 0714",
+                "email": "dorothy.exitmagiccity@gmail.com",
+                "website": "exitmagiccityrealty.com",
+                "id": "AL-10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.62516,
+                    34.82426
+                ]
+            },
+            "properties": {
+                "title": "4221 Huntsville Road, Florence, AL, 35630",
+                "description": "EXIT RIVER CITY REALTY",
+                "phone": "256 284 7781",
+                "email": "angiebrandon570@yahoo.com",
+                "website": "EXITRiverCityRealty.com ",
+                "id": "AL-11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.038085,
+                    33.742565
+                ]
+            },
+            "properties": {
+                "title": "50 Parr Street, Sumiton, AL, 35148",
+                "description": "EXIT JUSTICE REALTY",
+                "phone": "205 648 5195",
+                "email": "Melissa@ExitJusticeRealty.com",
+                "website": "exitjusticerealty.com",
+                "id": "AL-12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -87.56132,
+                    33.21216
+                ]
+            },
+            "properties": {
+                "title": "1818 University Blvd., Tuscaloosa, AL, 35401",
+                "description": "EXIT CAPSTONE REALTY",
+                "phone": "659 734 3948",
+                "email": "frontdesk.exitcapstone@gmail.com",
+                "website": "exitcapstonerealty.com",
+                "id": "AL-13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.81808,
+                    33.65147
+                ]
+            },
+            "properties": {
+                "title": "439 Fieldstown Road, Suite 129, Gardendale, AL, 35071",
+                "description": "EXIT JUSTICE REALTY",
+                "phone": "205 285 8095",
+                "email": "melissa@exitjusticerealty.com",
+                "website": "exitjusticerealty.com",
+                "id": "AL-14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.714946,
+                    34.753345
+                ]
+            },
+            "properties": {
+                "title": "1896 Slaughter Road, Suite F, Madison, AL, 35758",
+                "description": "EXIT REALTY NORTH",
+                "phone": "256 427 2777",
+                "email": "chris@exitrealtynorth.com",
+                "website": "exitrealtynorth.com ",
+                "id": "AL-15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.09757,
+                    32.34732
+                ]
+            },
+            "properties": {
+                "title": "9427 Vaughn Road, Suite C, Pike Road, AL, 36064",
+                "description": "EXIT REALTY PIKE ROAD",
+                "phone": "334 245 9300",
+                "email": "rebekah@exitrealtypikeroad.com",
+                "website": "exitrealtypikeroad.com ",
+                "id": "AL-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.86911,
+                    33.34749
+                ]
+            },
+            "properties": {
+                "title": "3421 South Shades Crest Drive Suite 113, Hoover, AL, 35244",
+                "description": "EXIT ELITE REALTY",
+                "phone": "205 894 4200",
+                "email": "tundrapippens@yahoo.com",
+                "website": "exitrealtyhoover.com ",
+                "id": "AL-17"
+            }
         }
     ]
 }
