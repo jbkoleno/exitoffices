@@ -9,8 +9,8 @@
         "Address": "430 New Park Avenue, Suite 202, Hartford, CT 06106",
         "Primary MLS": "Smart MLS",
         "Coordinates": [
-            -72.71523,
-            41.7438
+            41.7438,
+            -72.71523
         ]
     },
     {
@@ -23,8 +23,8 @@
         "Address": "2730 Boston Post Road, Guilford, CT 06437",
         "Primary MLS": "Smart MLS",
         "Coordinates": [
-            -72.733795,
-            41.309165
+            41.309165,
+            -72.733795
         ]
     },
     {
@@ -37,8 +37,8 @@
         "Address": "15 Stony Hill Road, Bethel, CT 06801",
         "Primary MLS": "Smart MLS",
         "Coordinates": [
-            -73.39911,
-            41.41659
+            41.41659,
+            -73.39911
         ]
     },
     {
@@ -51,8 +51,8 @@
         "Address": "843 White Plains Road, Trumbull, CT 06611",
         "Primary MLS": "Smart MLS",
         "Coordinates": [
-            -73.19399,
-            41.243105
+            41.243105,
+            -73.19399
         ]
     },
     {
@@ -65,8 +65,8 @@
         "Address": "19 Imperial Avenue, Westport, CT 06880",
         "Primary MLS": "Smart MLS",
         "Coordinates": [
-            -73.35787,
-            41.14012
+            41.14012,
+            -73.35787
         ]
     },
     {
@@ -79,8 +79,8 @@
         "Address": "106 Route 32, Suite 4, North Franklin, CT 06254",
         "Primary MLS": "",
         "Coordinates": [
-            -72.13243,
-            41.57573
+            41.57573,
+            -72.13243
         ]
     },
     {
@@ -93,8 +93,8 @@
         "Address": "30 Buxton Farms Road Suite 115, Stamford, CT 06905",
         "Primary MLS": "",
         "Coordinates": [
-            -73.54533,
-            41.11127
+            41.11127,
+            -73.54533
         ]
     },
     {
@@ -107,8 +107,8 @@
         "Address": "40 East Elm Street, Greenwich, CT 06830",
         "Primary MLS": "",
         "Coordinates": [
-            -73.62414,
-            41.02694
+            41.02694,
+            -73.62414
         ]
     },
     {
@@ -131,8 +131,8 @@
         "Address": "156 Round Hill Road, Fairfield, CT 06430",
         "Primary MLS": "",
         "Coordinates": [
-            -73.253435,
-            41.14726
+            41.14726,
+            -73.253435
         ]
     },
     {
@@ -145,8 +145,8 @@
         "Address": "73 East Main Street, Plainville, CT 06062",
         "Primary MLS": "",
         "Coordinates": [
-            -72.86449,
-            41.67258
+            41.67258,
+            -72.86449
         ]
     },
     {
@@ -159,8 +159,8 @@
         "Address": "50 Olivia Street, Derby, CT 06418",
         "Primary MLS": "",
         "Coordinates": [
-            -73.0907,
-            41.320995
+            41.320995,
+            -73.0907
         ]
     },
     {
@@ -183,8 +183,8 @@
         "Address": "186 East Center Street, Manchester, CT 06040",
         "Primary MLS": "",
         "Coordinates": [
-            -72.51508,
-            41.77676
+            41.77676,
+            -72.51508
         ]
     },
     {
@@ -197,8 +197,8 @@
         "Address": "5 Brook Street, Suite 2-D, Darien, CT 06820",
         "Primary MLS": "",
         "Coordinates": [
-            -73.472785,
-            41.075495
+            41.075495,
+            -73.472785
         ]
     },
     {
@@ -221,8 +221,8 @@
         "Address": "69 Grove Street, New Canaan, CT 06840",
         "Primary MLS": "",
         "Coordinates": [
-            -73.498305,
-            41.143405
+            41.143405,
+            -73.498305
         ]
     },
     {
@@ -235,8 +235,8 @@
         "Address": "156 Round Hill Road, Fairfield, CT 06430",
         "Primary MLS": "",
         "Coordinates": [
-            -73.253435,
-            41.14726
+            41.14726,
+            -73.253435
         ]
     },
     {
@@ -249,8 +249,8 @@
         "Address": "48 Anderson Avenue, New Milford, CT 06776",
         "Primary MLS": "",
         "Coordinates": [
-            -73.40698,
-            41.566935
+            41.566935,
+            -73.40698
         ]
     }
 ]
